@@ -10,9 +10,13 @@
   "author": "Ogunsola Adebayo",
   "license": "MIT",
   "dependencies": {
+    "colors": "^1.4.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "morgan": "^1.10.0"
+    "mongoose": "^5.9.18",
+    "morgan": "^1.10.0",
+    "node-geocoder": "^3.27.0",
+    "slugify": "^1.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
